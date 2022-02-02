@@ -13,6 +13,7 @@ ZapSplat - https://www.zapsplat.com/music/packet-of-black-chia-seeds-catch-1/
 Lobo Loco Walz with an Elf - 
 https://www.freemusicarchive.org/music/Lobo_Loco/after-twelve-is-green/walz-with-an-elf-id-1507
 
+You can play the game here: https://lenawroblewska.github.io/csc_3224_gamedev/
 
 Future Updates:
 
